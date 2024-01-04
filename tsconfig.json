@@ -21,5 +21,6 @@
     "noFallthroughCasesInSwitch": true
   },
   "include": [".eslintrc.cjs", "src"],
+  "files": ["src/styles/styled.d.ts"],
   "references": [{ "path": "./tsconfig.node.json" }]
 }
